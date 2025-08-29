@@ -1,0 +1,6 @@
+@WebApi_MCP_Play_HostAddress = http://localhost:5249
+
+GET {{WebApi_MCP_Play_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
